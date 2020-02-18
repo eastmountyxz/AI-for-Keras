@@ -5,13 +5,15 @@
 
 [[Python人工智能] 十六.Keras环境搭建、入门基础及回归神经网络案例](https://blog.csdn.net/Eastmount/article/details/104313140) <br />
 
-<img src="https://img-blog.csdnimg.cn/20200214185846657.png" height="50%" width="50%" />
+<div align="center">
+  <img src="https://img-blog.csdnimg.cn/20200214185846657.png" height="50%" width="50%" />
+</div>
 
 [[Python人工智能] 十七.Keras搭建分类神经网络及MNIST数字图像案例分析](https://blog.csdn.net/Eastmount/article/details/104366166) <br />
 
-
-<img src="https://img-blog.csdnimg.cn/20200218175441666.png" height="50%" width="50%" />
-
+<div align="center">
+  <img src="https://img-blog.csdnimg.cn/20200218175441666.png" height="50%" width="50%" />
+</div>
 
 同时推荐前面作者另外五个Python系列文章。从2014年开始，作者主要写了三个Python系列文章，分别是基础知识、网络爬虫和数据分析。2018年陆续增加了Python图像识别和Python人工智能专栏。
 
@@ -27,8 +29,7 @@
   <img src="https://img-blog.csdnimg.cn/2019112810131675.png" height="50%" width="50%" />
 </div>
 
-前文：
-
+前文： <br />
 [[Python人工智能] 一.TensorFlow2.0环境搭建及神经网络入门](https://blog.csdn.net/Eastmount/article/details/103282042) <br />
 [[Python人工智能] 二.TensorFlow基础及一元直线预测案例](https://blog.csdn.net/Eastmount/article/details/103322331) <br />
 [[Python人工智能] 三.TensorFlow基础之Session、变量、传入值和激励函数](https://blog.csdn.net/Eastmount/article/details/103336214) <br />
