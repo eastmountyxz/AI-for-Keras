@@ -47,13 +47,14 @@
 [[Python人工智能] 十五.无监督学习Autoencoder原理及聚类可视化案例详解](https://blog.csdn.net/Eastmount/article/details/103990297) <br />
 [[Python人工智能] 十六.Keras环境搭建、入门基础及回归神经网络案例](https://blog.csdn.net/Eastmount/article/details/104313140) <br />
 [[Python人工智能] 十七.Keras搭建分类神经网络及MNIST数字图像案例分析](https://blog.csdn.net/Eastmount/article/details/104366166) <br />
-[[Python人工智能] 十九.Keras搭建循环神经网络分类案例及RNN原理详解](https://blog.csdn.net/Eastmount/article/details/104458677)
+[[Python人工智能] 十八.Keras搭建卷积神经网络及CNN原理详解](https://blog.csdn.net/Eastmount/article/details/104399015) <br />
+[[Python人工智能] 十九.Keras搭建循环神经网络分类案例及RNN原理详解](https://blog.csdn.net/Eastmount/article/details/104458677) <br />
 [[Python人工智能] 二十.基于Keras+RNN的文本分类vs基于传统机器学习的文本分类](https://blog.csdn.net/Eastmount/article/details/105165164) <br />
 [[Python人工智能] 二十一.Word2Vec+CNN中文文本分类详解及与机器学习（RF\DTC\SVM\KNN\NB\LR）分类对比](https://blog.csdn.net/Eastmount/article/details/107004660) <br />
 
 ---
 
-By：Eastmount CSDN 2020-02-18
+By：Eastmount CSDN 2020-07-01
 
 
 
