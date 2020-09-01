@@ -52,6 +52,8 @@
 [[Python人工智能] 二十.基于Keras+RNN的文本分类vs基于传统机器学习的文本分类](https://blog.csdn.net/Eastmount/article/details/105165164) <br />
 [[Python人工智能] 二十一.Word2Vec+CNN中文文本分类详解及与机器学习（RF\DTC\SVM\KNN\NB\LR）分类对比](https://blog.csdn.net/Eastmount/article/details/107004660) <br />
 [[Python人工智能] 二十二.基于大连理工情感词典的情感分析和情绪计算](https://blog.csdn.net/Eastmount/article/details/107877713)  <br />
+[[Python人工智能] 二十三.基于机器学习和TFIDF的情感分类（含详细的NLP数据清洗）](https://blog.csdn.net/Eastmount/article/details/107906799)  <br />
+
 
 ---
 
