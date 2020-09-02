@@ -29,7 +29,7 @@
   <img src="https://img-blog.csdnimg.cn/2019112810131675.png" height="50%" width="50%" />
 </div>
 
-前文： <br />
+前文内容： <br />
 [[Python人工智能] 一.TensorFlow2.0环境搭建及神经网络入门](https://blog.csdn.net/Eastmount/article/details/103282042) <br />
 [[Python人工智能] 二.TensorFlow基础及一元直线预测案例](https://blog.csdn.net/Eastmount/article/details/103322331) <br />
 [[Python人工智能] 三.TensorFlow基础之Session、变量、传入值和激励函数](https://blog.csdn.net/Eastmount/article/details/103336214) <br />
