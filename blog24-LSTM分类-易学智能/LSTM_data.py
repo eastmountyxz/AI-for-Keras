@@ -145,13 +145,13 @@ else:
     #对测试集进行预测
     test_pre = model.predict(test_seq_mat)
     
-    #评价预测效果，计算混淆矩阵
-    confm = metrics.confusion_matrix(np.argmax(test_pre,axis=1),np.argmax(test_y,axis=1))
+    #评价预测效果，计算混淆矩阵 参数顺序
+    confm = metrics.confusion_matrix(np.argmax(test_y,axis=1),np.argmax(test_pre,axis=1))
     print(confm)
     #混淆矩阵可视化
     Labname = ['正常', '异常']
     
-    print(metrics.classification_report(np.argmax(test_pre,axis=1),np.argmax(test_y,axis=1)))
+    print(metrics.classification_report(np.argmax(test_y,axis=1),np.argmax(test_pre,axis=1)))
     classification_pj(np.argmax(test_pre,axis=1),np.argmax(test_y,axis=1))
 
     plt.figure(figsize=(8,8))
@@ -173,7 +173,7 @@ else:
     
     #对验证集进行预测
     val_pre = model.predict(val_seq_mat)
-    print(metrics.classification_report(np.argmax(val_pre,axis=1),np.argmax(val_y,axis=1)))
+    print(metrics.classification_report(np.argmax(val_y,axis=1),np.argmax(val_pre,axis=1)))
     classification_pj(np.argmax(val_pre,axis=1),np.argmax(val_y,axis=1))
     
     #计算时间
