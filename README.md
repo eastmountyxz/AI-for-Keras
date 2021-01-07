@@ -15,6 +15,12 @@
   <img src="https://img-blog.csdnimg.cn/20200218175441666.png" height="50%" width="50%" />
 </div>
 
+[[Python人工智能] 九.gensim词向量Word2Vec安装及《庆余年》中文短文本相似度计算](https://blog.csdn.net/Eastmount/article/details/103647573)  <br />
+
+<div align="center">
+  <img src="https://img-blog.csdnimg.cn/20191221211434666.png" height="50%" width="50%" />
+</div>
+
 同时推荐前面作者另外五个Python系列文章。从2014年开始，作者主要写了三个Python系列文章，分别是基础知识、网络爬虫和数据分析。2018年陆续增加了Python图像识别和Python人工智能专栏。
 
 
