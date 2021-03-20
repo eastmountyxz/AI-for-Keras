@@ -62,7 +62,8 @@
 [[Python人工智能] 二十四.易学智能GPU搭建Keras环境实现LSTM恶意URL请求分类](https://blog.csdn.net/Eastmount/article/details/109697350)  <br />
 [[Python人工智能] 二十五.Keras实现LSTM、BiLSTM、BiLSTM+Attention、CNN的中文文本分类](https://blog.csdn.net/Eastmount/article/details/108556520) <br />
 [[Python人工智能] 二十六.基于BiLSTM-CRF的医学命名实体识别研究（上）数据预处理](https://blog.csdn.net/eastmount/article/details/111526240)  <br />
-
+[[Python人工智能] 二十七.基于BiLSTM-CRF的医学命名实体识别研究（下）模型构建](https://blog.csdn.net/Eastmount/article/details/112249976) <br />
+[[Python人工智能] 二十八.Keras深度学习中文文本分类万字总结（CNN、TextCNN、LSTM、BiLSTM、BiLSTM+Attention）](https://blog.csdn.net/Eastmount/article/details/114809729)  <br />
 
 
 ---
