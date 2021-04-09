@@ -64,6 +64,7 @@
 [[Python人工智能] 二十六.基于BiLSTM-CRF的医学命名实体识别研究（上）数据预处理](https://blog.csdn.net/eastmount/article/details/111526240)  <br />
 [[Python人工智能] 二十七.基于BiLSTM-CRF的医学命名实体识别研究（下）模型构建](https://blog.csdn.net/Eastmount/article/details/112249976) <br />
 [[Python人工智能] 二十八.Keras深度学习中文文本分类万字总结（CNN、TextCNN、LSTM、BiLSTM、BiLSTM+Attention）](https://blog.csdn.net/Eastmount/article/details/114809729)  <br />
+[[Python人工智能] 二十九.什么是生成对抗网络GAN？基础原理和代码普及(1)](https://blog.csdn.net/Eastmount/article/details/115256149) <br />
 
 
 ---
