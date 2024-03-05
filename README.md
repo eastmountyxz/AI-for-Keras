@@ -73,12 +73,11 @@
 - [[Python人工智能] 三十五.基于Transformer的商品评论情感分析 (1)机器学习和深度学习的Baseline模型实现](https://blog.csdn.net/Eastmount/article/details/124579966)
 - [[Python人工智能] 三十六.基于Transformer的商品评论情感分析 (2)keras构建多头自注意力（Transformer）模型](https://blog.csdn.net/Eastmount/article/details/124587047)
 - [Python人工智能] 三十七.基于Transformer的商品评论情感分析 (3)keras构建Transformer+BiLSTM模型
-
-
----
-
-后续会分享图神经网络知识，加油~
-
+- [[Python人工智能] 三十八.Keras构建无监督学习Autoencoder模型及MNIST聚类可视化详解](https://blog.csdn.net/Eastmount/article/details/126476787)
+- [[Python人工智能] 三十九.VS Code配置Python编程和Keras环境及手写数字识别](https://blog.csdn.net/Eastmount/article/details/128759182)
+- [[Python人工智能] 四十.命名实体识别 (1)基于BiLSTM-CRF的威胁情报实体识别万字详解](https://blog.csdn.net/Eastmount/article/details/134551902)
+- [[Python人工智能] 四十一.命名实体识别 (2)基于BiGRU-CRF的中文实体识别万字详解](https://blog.csdn.net/Eastmount/article/details/136122018)
+- [Python人工智能] 四十二.命名实体识别 (3)基于Bert+BiLSTM-CRF的中文实体识别万字详解（异常解决中）
 
 
 
